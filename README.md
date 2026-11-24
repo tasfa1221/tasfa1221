@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there 👋, I'm Tesfa Bokona
 
-<!--
-**tasfa1221/tasfa1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Software Engineering student at Wachemo University, Ethiopia, interested in programming, web development, and building useful software solutions.
+
+### 👨‍💻 About Me
+
+- 🎓 Software Engineering Student at Wachemo University
+- 🌱 Currently learning Laravel and React
+- 💻 Interested in Full-Stack Web Development
+- 🧠 Enjoy solving problems and building practical projects
+- 🚀 Always learning and improving my programming skills
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Java
+- C++
+- JavaScript
+- PHP
+
+**Frontend Development**
+- HTML
+- CSS
+- React
+
+**Backend Development**
+- PHP
+- Laravel
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
+
+### 📂 My Projects
+
+- 🏨 Ambo Hotel Website
+- 🌐 Personal Portfolio Website
+- 🧮 My Calculator
+
+### 🎯 My Goals
+
+- Become a professional Full-Stack Developer.
+- Build real-world software projects.
+- Improve my problem-solving skills.
+- Contribute to open-source projects.
+- Collaborate with other developers.
+
+### 🤝 Connect With Me
+
+- GitHub: https://github.com/tasfa1221
+
+---
+
+⭐ Thanks for visiting my profile!
+
+**Keep Learning | Keep Building | Keep Growing 🚀**
